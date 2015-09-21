@@ -6,7 +6,7 @@
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
 	<RootNamespace></RootNamespace>
-	<ProjectGuid>{D097491D-A23A-0C1D-1961-294B5D6C736F}</ProjectGuid>
+	<ProjectGuid>{2BE2F126-60A8-6869-8ED4-8A7C4D92CADB}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<AssemblyName>Assembly-CSharp</AssemblyName>
@@ -73,6 +73,7 @@
      <Compile Include="Assets\Modules\Simple Orbit\SimpleMultipleOrbit.cs" />
      <Compile Include="Assets\Modules\Simple Orbit\SimpleOrbit.cs" />
      <Compile Include="Assets\Modules\Simple Orbit\SimpleSpin.cs" />
+     <Compile Include="Assets\Scenes\Game\GameControler.cs" />
      <None Include="Assets\Fonts\ubuntu\UBUNTU FONT LICENCE.txt" />
      <None Include="Assets\Shaders &amp; Effects\HorizontalLinearGradient.shader" />
      <None Include="Assets\Fonts\Bebas\Flat-it License.txt" />
@@ -82,17 +83,11 @@
      <None Include="Assets\Shaders &amp; Effects\HorizontalLinearHighlight.shader" />
      <None Include="Assets\Shaders &amp; Effects\RadialGradient.shader" />
      <None Include="Assets\Shaders &amp; Effects\RadialHighlight.shader" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
