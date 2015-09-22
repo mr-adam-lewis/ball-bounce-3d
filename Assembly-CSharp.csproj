@@ -74,6 +74,8 @@
      <Compile Include="Assets\Modules\Simple Orbit\SimpleOrbit.cs" />
      <Compile Include="Assets\Modules\Simple Orbit\SimpleSpin.cs" />
      <Compile Include="Assets\Scenes\Game\GameControler.cs" />
+     <Compile Include="Assets\Scenes\Game\Scripts\Ball.cs" />
+     <Compile Include="Assets\Scenes\Game\Scripts\GameController.cs" />
      <None Include="Assets\Fonts\ubuntu\UBUNTU FONT LICENCE.txt" />
      <None Include="Assets\Shaders &amp; Effects\HorizontalLinearGradient.shader" />
      <None Include="Assets\Fonts\Bebas\Flat-it License.txt" />
